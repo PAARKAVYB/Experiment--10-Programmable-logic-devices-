@@ -39,11 +39,10 @@ Run the program and choose RTL viewer to get RTL realization.*/
 
 ## PROGRAM :
 
-/*
 Program for PROM 
 Developed by: Paarkavy B
 Register Number: 212221230072 
-*/
+
 
 ```
 module rom(out, addr, CS);
