@@ -24,7 +24,6 @@ Figure -01 PROM
  
 ## PROCEDURE:
 
-/* 
 ### Step 1:
 Open Quartus II and select new project and choose the file location.
 ### Step 2:
@@ -85,5 +84,5 @@ endmodule
 ![output](td.png)
 
 ## RESULT:
-S
+
 PROM has been implemented using verilog and output has been validated.
